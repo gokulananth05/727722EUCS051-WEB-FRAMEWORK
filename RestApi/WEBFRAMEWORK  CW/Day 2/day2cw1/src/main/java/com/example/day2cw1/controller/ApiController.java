@@ -16,5 +16,4 @@ public class ApiController {
     public String getMethodName() {
         return "App Name : "+appconfig.appName+" App Version : "+appconfig.appVersion;
     }
-    
 }
